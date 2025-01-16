@@ -1,1 +1,2 @@
-# Diabetes-Prediction
+# R-Project
+As a data analyst , we need to analyze the data ,So this R script classifies diabetes data using five models: Linear Regression, Logistic Regression, Naive Bayes, SVM, and Decision Tree. It normalizes features, splits the data, trains models, predicts outcomes, calculates accuracy, and visualizes results using confusion matrices, decision boundaries, and accuracy comparison plots . And we use the diabetes dataset for it.
